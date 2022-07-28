@@ -1,0 +1,16 @@
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\bin\Debug\net5.0\EditorHTML.exe
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\bin\Debug\net5.0\EditorHTML.deps.json
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.json
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.dev.json
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\bin\Debug\net5.0\EditorHTML.dll
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\bin\Debug\net5.0\EditorHTML.pdb
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.AssemblyReference.cache
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfoInputs.cache
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfo.cs
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.CoreCompileInputs.cache
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\EditorHTML.dll
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\refint\EditorHTML.dll
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\EditorHTML.pdb
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\EditorHTML.genruntimeconfig.cache
+D:\devs\Csharp\BaltaIO\Projetos\EditorHTML\obj\Debug\net5.0\ref\EditorHTML.dll
